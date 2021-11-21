@@ -7,7 +7,7 @@ from codecs import open
 
 from setuptools import setup
 from setuptools.command.test import test as TestCommand
-
+#Paulo Assunção
 here = os.path.abspath(os.path.dirname(__file__))
 
 class PyTest(TestCommand):
